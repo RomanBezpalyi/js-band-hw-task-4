@@ -7,7 +7,7 @@
     "start": "webpack-dev-server --env.mode development --env.port 8080",
     "build": "webpack --env.mode production",
     "test": "jest",
-    "eslint": "eslint --ext .js src/",
+    "lint": "eslint --ext .js src/",
     "commit": "npx git-cz"
   },
   "author": "Roman Bezpalyi <romabespaly@gmail.com>",
