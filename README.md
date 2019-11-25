@@ -53,7 +53,7 @@ be formatted according to the standards defined by project maintainers.
 ├── js
 │   ├── classes
 │   │   ├── __test__
-│   │   |   └── Cost.test.js
+│   │   │   └── Cost.test.js
 │   │   ├── Cost.js
 │   │   ├── Ship.js
 │   │   ├── Truck.js
@@ -72,13 +72,13 @@ be formatted according to the standards defined by project maintainers.
 │   │   └── normalize.scss
 │   ├── components
 │   │   ├── form
-│   │   |   |── cancel-btn.scss
-│   │   |   |── create-btn.scss
-│   │   |   └── form.scss
+│   │   │   |── cancel-btn.scss
+│   │   │   |── create-btn.scss
+│   │   │   └── form.scss
 │   │   ├── header
-│   │   |   └── header.scss
+│   │   │   └── header.scss
 │   │   ├── item
-│   │   |   └── item.scss
+│   │   │   └── item.scss
 │   │   └── main-content
 │   │       └── main-content.scss
 │   ├── common.scss
