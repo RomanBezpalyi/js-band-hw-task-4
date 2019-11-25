@@ -72,8 +72,8 @@ be formatted according to the standards defined by project maintainers.
 │   │   └── normalize.scss
 │   ├── components
 │   │   ├── form
-│   │   │   |── cancel-btn.scss
-│   │   │   |── create-btn.scss
+│   │   │   │── cancel-btn.scss
+│   │   │   │── create-btn.scss
 │   │   │   └── form.scss
 │   │   ├── header
 │   │   │   └── header.scss
