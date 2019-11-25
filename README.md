@@ -19,14 +19,14 @@ In the project directory, you can run:
 npm start
 ```
 
-Runs the app in the development mode. Open http://localhost:8080 to view it in
+Runs the app in the development mode. Open http://localhost:8080 to check it in
 the browser.
 
 ```bash
 npm run build
 ```
 
-Builds the app for production to the build folder.
+Builds the app for production to the dist folder.
 
 ```bash
 npm run lint
