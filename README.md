@@ -44,8 +44,7 @@ Runs Jest to start testing your project.
 npm run commit
 ```
 
-You'll be prompted to fill in any required fields and your commit messages will
-be formatted according to the standards defined by project maintainers.
+Runs Commitizen to track your commit.
 
 **Project Structure**
 
